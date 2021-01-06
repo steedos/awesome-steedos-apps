@@ -11,6 +11,7 @@
 
 - [B2B Commerce](https://github.com/steedos/b2b-commerce) Design, build, and launch a business-to-business (B2B) commerce solution that enables retailers, wholesalers, or distributors to purchase goods or services from your brand. Powered by Steedos and Next.js Commerce.
 
+- [Contract Management](https://github.com/steedos/steedos-app-contract) Paper contracts are old school. With contract management software for Steedos, you can centralize contract storage, strengthen compliance, automate and accelerate the entire contract lifecycle, and much more.
 
 ## Third Party
 
