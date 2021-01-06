@@ -1,7 +1,7 @@
-# Awesome Steedos
+# Awesome Steedos Apps
 💻 🎉 An awesome &amp; curated list of best applications and plugins for Steedos.
 
-## Apps
+## Steedos Labs
 
 - [PM (Project Management)](https://github.com/steedos/project-management-app) Track and manage your projects, milestones, tasks, blocked tasks, overdue tasks, time, expense budgets, and has detailed reporting capabilities.
 
@@ -9,6 +9,6 @@
 
 - [OKR (Objectives and Key Results)](https://github.com/steedos/okr-management-app) Objectives and Key Results (OKR) is a critical thinking framework and goal setting methodology that helps companies to align goals and ensure everyone is working collaboratively on goals that really matter.
 
-## Dashboard
+## Third Party
 
 - [Metabase](https://github.com/metabase/metabase) The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋. With metabase you connect to your steedos data in mongodb and get it in front of your team.
